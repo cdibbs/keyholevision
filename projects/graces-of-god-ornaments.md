@@ -1,3 +1,5 @@
+[Home]
+
 Thank you for supporting our shop. We're glad you've chosen to create
 collaborative art with us!
 
@@ -89,4 +91,7 @@ sheep and other non-cows. :-) Jeremiah 32:22.
 So rarely is Jesus where we expect him to be. Depicted is Jesus sitting on a
 small hill outside of the Lion's Gate of Jerusalem. Hebrews 13:12-14
 
+[Home]
+
 [LaserGRBL]: https://github.com/arkypita/LaserGRBL
+[Home]: https://cdibbs.github.io/keyholevisions
