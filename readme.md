@@ -1,4 +1,4 @@
-## Welcome to Keyhole Visions
+## Welcome!
 
 This is the get-your-hands-dirty companion site to my [Keyhole Visions Etsy Shop][etsy]. While plain-text instructions are included with your downloads, the ones found here are able to have richer content.
 
@@ -6,6 +6,8 @@ This is the get-your-hands-dirty companion site to my [Keyhole Visions Etsy Shop
 
 - ["Graces of God" ornaments][graces-of-god-ornaments]
 - ["Graces of God" coasters][graces-of-god-coasters]
+
+Thank you for visiting our shop and choosing to create collaborative artworks with us!
 
 [etsy]: https://www.etsy.com/shop/keyholevisions
 [graces-of-god-ornaments]: projects/graces-of-god-ornaments
