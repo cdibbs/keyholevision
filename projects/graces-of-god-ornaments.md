@@ -22,19 +22,21 @@ back of the piece.
 
 ## Supplies
 
-- Laser cutter: https://amzn.to/3lVGdTs
-- 2mm craft plywood: https://amzn.to/3AXXeAE
-- Wilton Icing Colors: https://amzn.to/3G45sLC
-- Ziplock bags: https://amzn.to/2Z2Ccnx
+- Laser cutter: [https://amzn.to/3lVGdTs](https://amzn.to/3lVGdTs)
+- 2mm craft plywood: [https://amzn.to/3AXXeAE](https://amzn.to/3AXXeAE)
+- Wilton Icing Colors: [https://amzn.to/3G45sLC](https://amzn.to/3G45sLC)
+- Ziplock bags: [https://amzn.to/2Z2Ccnx](https://amzn.to/2Z2Ccnx)
 - Filtered or distilled water for dyeing.
-- Gorilla wood glue: https://amzn.to/3nd3Bvl
+- Gorilla wood glue: [https://amzn.to/3nd3Bvl](https://amzn.to/3nd3Bvl)
 
 Optional, if epoxying:
 
-- Epoxy resin (non-VOC): https://amzn.to/30xsgmu
-- Nitrile gloves*: https://amzn.to/3aSHWTj
-- Fume mask**: https://amzn.to/3AV72vp
-- 2mm corkboard: https://amzn.to/3lVFzFw
+- Epoxy resin (non-VOC): [https://amzn.to/30xsgmu](https://amzn.to/30xsgmu)
+- Nitrile gloves*: [https://amzn.to/3aSHWTj](https://amzn.to/3aSHWTj)
+- Fume mask**: [https://amzn.to/3AV72vp](https://amzn.to/3AV72vp)
+
+* My epoxy kit came with super thin plastic gloves that tore easily so I got some nitrile gloves instead.
+** The fume mask may not be necessary with non-VOC epoxy but I was working indoors so I got it just in case.
 
 ## Hints, tips, and ideas
 
