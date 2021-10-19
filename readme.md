@@ -1,5 +1,3 @@
-# Keyhole Visions
-
 ## Welcome to Keyhole Visions
 
 This is the get-your-hands-dirty companion site to my [Keyhole Visions Etsy Shop][etsy]. While plain-text instructions are included with your downloads, the ones found here are able to have richer content.
