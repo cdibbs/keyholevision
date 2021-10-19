@@ -22,11 +22,19 @@ back of the piece.
 
 ## Supplies
 
-- Laser cutter:
-- 2mm craft plywood:
-- Wilton Icing Colors: https://www.amazon.com/Wilton-Icing-Colors-12-Count-Gel-Based/dp/B0000CFN0Y
-- Ziplock bags and filtered or distilled water for dyeing.
-- Wood glue:
+- Laser cutter: https://amzn.to/3lVGdTs
+- 2mm craft plywood: https://amzn.to/3AXXeAE
+- Wilton Icing Colors: https://amzn.to/3G45sLC
+- Ziplock bags: https://amzn.to/2Z2Ccnx
+- Filtered or distilled water for dyeing.
+- Gorilla wood glue: https://amzn.to/3nd3Bvl
+
+Optional, if epoxying:
+
+- Epoxy resin (non-VOC): https://amzn.to/30xsgmu
+- Nitrile gloves*: https://amzn.to/3aSHWTj
+- Fume mask**: https://amzn.to/3AV72vp
+- 2mm corkboard: https://amzn.to/3lVFzFw
 
 ## Hints, tips, and ideas
 
@@ -71,23 +79,23 @@ loop or hanger out of the design.
 This is the "Graces of God" collection. Each is based on a story from the Bible
 and in each one, Jesus can be found (some more obvious than others).
 
-1. sandals-and-gentle-fire.svg
+1. `sandals-and-gentle-fire.svg`
 Flowers may be the most delicate part of a bush. Yet here they are unburnt by
 the one who would do no harm. Exodus 3:14-15.
 
-2. bread-and-grain-multiplied.svg
+2. `bread-and-grain-multiplied.svg`
 10 + 10 loaves of barley bread and some grain fed 10 * 10 people. The piece
 depicts the leftovers. 2 Kings 4:42-44.
 
-3. manna-and-quail-from-heaven.svg
+3. `manna-and-quail-from-heaven.svg`
 God fed with honey bread from Heaven by morning and quail by twilight. Exodus 16:11-12.
 
 
-4. land-of-milk-and-honey.svg
+4. `land-of-milk-and-honey.svg`
 What was promised was delivered. Even a whole land. Milk was drawn from
 sheep and other non-cows. :-) Jeremiah 32:22.
 
-5. outside-the-gate.svg
+5. `outside-the-gate.svg`
 So rarely is Jesus where we expect him to be. Depicted is Jesus sitting on a
 small hill outside of the Lion's Gate of Jerusalem. Hebrews 13:12-14
 
