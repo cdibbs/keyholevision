@@ -11,4 +11,4 @@ Thank you for visiting our shop and choosing to create collaborative artworks wi
 
 [etsy]: https://www.etsy.com/shop/keyholevisions
 [graces-of-god-ornaments]: projects/graces-of-god-ornaments
-[graces-of-god-coasters]: projects/graces-of-god-ornaments
+[graces-of-god-coasters]: projects/graces-of-god-coasters
