@@ -20,7 +20,7 @@ software, for example, you will need to:
 
 1. Choose "File -> Open File" on a file to engrave.
 2. Choose "File -> Append File" on the file to cut.
-3. Run any engraving. 
+3. Run the engraving/cutting. 
 
 For convenience, cut-only and engrave-only versions, so named, exist where needed.
 
