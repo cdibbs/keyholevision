@@ -5,7 +5,7 @@ This is the get-your-hands-dirty companion site to our [Keyhole Visions Etsy Sho
 ## Projects
 
 - ["Graces of God" ornaments][graces-of-god-ornaments]
-- ["Graces of God" coasters][graces-of-god-coasters]
+- ["Graces of God" coaster edition (Coming soon!)][graces-of-god-coasters]
 
 Thank you for visiting our shop and choosing to create collaborative artworks with us!
 
