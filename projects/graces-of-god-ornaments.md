@@ -5,16 +5,24 @@ collaborative art with us!
 
 ## Instructions
 
+A copy of these instructions is in your downloaded .zip file.
+
 For convenience, each of the artworks were placed in their own file. Each file
 contains the three to four, ~4in (~100mm) diameter layers comprising that artwork.
 The layers were designed to be cut out of 2mm thick plywood but could potentially
 work with other thicknesses.
 
-Red lines in the files mean "cut this" while blue lines mean "engrave." Depending
-on your software, you may need to load the red first, run that, and then load the
-blue while being mindful of relative position. With the open source [LaserGRBL]
-software, you can load the file to engrave, "append" the file to cut,
-and run the result.
+Red lines in the files mean "cut this" while blue lines mean "engrave." Black lines
+are helper cuts for those whose cutters give them trouble when removing the pieces.
+Depending on your software, you may need to load the blue first, run that, and then
+load the red while being mindful of relative position. With the open source LaserGRBL
+software, for example, you will need to:
+
+1. Choose "File -> Open File" on a file to engrave.
+2. Choose "File -> Append File" on the file to cut.
+3. Run any engraving. 
+
+For convenience, cut-only and engrave-only versions, so named, exist where needed.
 
 A note on `outside-the-gate.svg`: the base star was meant to be engraved and cut
 and then (unlike the other pieces) flipped over before assembly so the text is on the
@@ -46,7 +54,7 @@ The pieces photographed for the shop were stained with food coloring rather than
 woodstain. The results were both pleasing and unexpected. If you want to achieve the same
 effect, here was what I did.
 
-I used Wilton Icing Colors found here: https://www.amazon.com/Wilton-Icing-Colors-12-Count-Gel-Based/dp/B0000CFN0Y
+I used Wilton Icing Colors found here: https://amzn.to/3G45sLC
 I put about an 1/8 tsp in a small, ziplock bag with 1/4 cup of water and soaked the wood
 panels for about 15 minutes or until the colors looked right. This is a great
 place to experiment with wood scraps and find a color scheme you like.
