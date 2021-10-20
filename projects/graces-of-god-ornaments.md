@@ -22,7 +22,7 @@ software, for example, you will need to:
 2. Choose "File -> Append File" on the file to cut.
 3. Run the engraving/cutting. 
 
-For convenience, cut-only and engrave-only versions, so named, exist where needed.
+For convenience, there are cut-only and engrave-only versions named as such.
 
 A note on `outside-the-gate.svg`: the base star was meant to be engraved and cut
 and then (unlike the other pieces) flipped over before assembly so the text is on the
