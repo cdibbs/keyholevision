@@ -1,3 +1,5 @@
+(Coming soon! Congrats on finding this, though... :)
+
 Thank you for supporting our shop. We're glad you've chosen to create
 collaborative art with us!
 
