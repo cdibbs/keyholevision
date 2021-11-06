@@ -27,11 +27,11 @@ For convenience, cut-only and engrave-only versions, so named, exist where neede
 
 Note: As an Amazon Associate I earn from qualifying purchases. Thank you for supporting my work!
 
-- Laser cutter: https://amzn.to/3lVGdTs
-- 2mm craft plywood: https://amzn.to/3AXXeAE
+- Laser cutter: [https://amzn.to/3lVGdTs](https://amzn.to/3lVGdTs)
+- 2mm craft plywood: [https://amzn.to/3AXXeAE](https://amzn.to/3AXXeAE)
 
 Optional, if epoxying:
-- Gorilla wood glue: https://amzn.to/3nd3Bvl
+- Gorilla wood glue: [https://amzn.to/3nd3Bvl](https://amzn.to/3nd3Bvl)
 
 ## Assembly
 
