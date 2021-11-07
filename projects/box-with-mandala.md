@@ -30,7 +30,7 @@ Note: As an Amazon Associate I earn from qualifying purchases. Thank you for sup
 - Laser cutter: [https://amzn.to/3lVGdTs](https://amzn.to/3lVGdTs)
 - 2mm craft plywood: [https://amzn.to/3AXXeAE](https://amzn.to/3AXXeAE)
 
-Optional, if epoxying:
+Optional, if gluing for better strength:
 - Gorilla wood glue: [https://amzn.to/3nd3Bvl](https://amzn.to/3nd3Bvl)
 
 ## Assembly
