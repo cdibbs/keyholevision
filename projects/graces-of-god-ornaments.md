@@ -15,12 +15,7 @@ work with other thicknesses.
 Red lines in the files mean "cut this" while blue lines mean "engrave." Black lines
 are helper cuts for those whose cutters give them trouble when removing the pieces.
 Depending on your software, you may need to load the blue first, run that, and then
-load the red while being mindful of relative position. With the open source LaserGRBL
-software, for example, you will need to:
-
-1. Choose "File -> Open File" on a file to engrave.
-2. Choose "File -> Append File" on the file to cut.
-3. Run the engraving/cutting. 
+load the red while being mindful of relative position.
 
 For convenience, there are cut-only and engrave-only versions named as such.
 
@@ -43,8 +38,9 @@ Optional, if epoxying:
 - Nitrile gloves*: [https://amzn.to/3aSHWTj](https://amzn.to/3aSHWTj)
 - Fume mask**: [https://amzn.to/3AV72vp](https://amzn.to/3AV72vp)
 
-* My epoxy kit came with super thin plastic gloves that tore easily so I got some nitrile gloves instead.
-** The fume mask may not be necessary with non-VOC epoxy but I was working indoors so I got it just in case.
+\* My epoxy kit came with super thin plastic gloves that tore easily so I acquired some nitrile gloves instead.
+
+\*\* The fume mask may not be necessary with non-VOC epoxy but I was working indoors so I got it just in case.
 
 ## Hints, tips, and ideas
 
@@ -54,7 +50,7 @@ The pieces photographed for the shop were stained with food coloring rather than
 woodstain. The results were both pleasing and unexpected. If you want to achieve the same
 effect, here was what I did.
 
-I used Wilton Icing Colors found here: https://amzn.to/3G45sLC
+I used Wilton Icing Colors found here: [https://amzn.to/3G45sLC](https://amzn.to/3G45sLC)
 I put about an 1/8 tsp in a small, ziplock bag with 1/4 cup of water and soaked the wood
 panels for about 15 minutes or until the colors looked right. This is a great
 place to experiment with wood scraps and find a color scheme you like.
@@ -67,14 +63,6 @@ Middle panel #2 (when present): Golden Yellow.
 
 Front panel: no color / natural wood.
 
-Otherwise, you can experiment with ordinary woodstains or even paint to create
-your own effect!
-
-### Final touches - Epoxy
-
-After the pieces are stained and glued together, you can coat them with clear epoxy resin
-to give a nice, shiny look which protects them from stains and other damage.
-
 ### Final touches - Hanging
 
 After the pieces were stained and glued together, I hot-glued some fishing line to the
@@ -82,7 +70,6 @@ backs of the pieces in order to hang them more easily on the Christmas tree. Of 
 there are many ways to accomplish this, but I personally prefer fishing line
 because it doesn't intrude on the piece; it's part of the reason why I left a wooden
 loop or hanger out of the design.
-
 
 ## Description
 
@@ -111,5 +98,4 @@ small hill outside of the Lion's Gate of Jerusalem. Hebrews 13:12-14
 
 [Home]
 
-[LaserGRBL]: https://github.com/arkypita/LaserGRBL
-[Home]: https://cdibbs.github.io/keyholevisions
+[Home]: https://keyhole.vision/
